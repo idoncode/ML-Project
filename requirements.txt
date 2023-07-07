@@ -1,4 +1,7 @@
 pandas
 numpy
 seaborn
+sklearn
+matplotlib.pyplot
+catboost
 -e .

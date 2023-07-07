@@ -1,0 +1,1 @@
+Components folder has folders of code that act as modules when you build a ML model.
